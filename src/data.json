@@ -1,0 +1,17 @@
+[
+  {
+    "key": 1,
+    "name": "buy watch",
+    "amount": -100.12
+  },
+  {
+    "key": 2,
+    "name": "buy food",
+    "amount": -40
+  },
+  {
+    "key": 3,
+    "name": "salary",
+    "amount": 4000
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "author": "Tang Hao",
+  "name": "react-start",
+  "version": "0.0.1",
+  "private": true,
+
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.3.2",
+    "gulp-less": "~3.0.5",
+    "gulp-watch": "~0.4.1",
+    "gulp-clean": "~0.2.2",
+    "webpack": "~1.0.0-beta6",
+    "webpack-dev-server": "~1.2.0",
+    "gulp-util": "*",
+    "script-loader": "~0.5.1",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "gulp-livereload": "~0.2.0",
+    "tiny-lr": "0.0.5",
+    "express": "~3.4.8",
+    "bower": "1.3.6",
+    "tmp": "0.0.23",
+    "gulp-rev": "~0.2.0",
+    "gulp-uglify": "~0.1.0",
+    "gulp-minify-css": "~0.2.0"
+  }
+}
